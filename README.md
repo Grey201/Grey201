@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[http://www.reddit.com/r/gifs/comments/43t5sd/hackers_life/](https://external-preview.redd.it/wkdwpI30ciwaCDOqtaKxO-FcitPUGHwxUD2H_WTe9yw.gif?format=mp4&v=enabled&s=5c39136e79ec90d73e793872f4022856fff89f11)" width="200"/>
+  <img src="https://external-preview.redd.it/wkdwpI30ciwaCDOqtaKxO-FcitPUGHwxUD2H_WTe9yw.gif" width="200"/>
 </div>
 ### Hi there 👋
 
