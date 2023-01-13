@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://external-preview.redd.it/wkdwpI30ciwaCDOqtaKxO-FcitPUGHwxUD2H_WTe9yw.gif" width="200"/>
+  <img src="https://external-preview.redd.it/wkdwpI30ciwaCDOqtaKxO-FcitPUGHwxUD2H_WTe9yw.gif" width="100"/>
 </div>
 ### Hi there 👋
 
