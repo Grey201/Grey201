@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100"/>
+</div>
 <!--
 **Grey201/Grey201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
