@@ -15,7 +15,7 @@ I am a Frontend Developer from Russia.
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://www.google.com/search?q=redux+icon&rlz=1C1CHBD_ruRU990RU993&sxsrf=AJOqlzWZDGBmgh7vURUXHaboocdiRQ9jBA:1673690311504&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGweyj5sb8AhWxs4sKHd-jBykQ_AUoAXoECAEQAw&biw=1280&bih=616&dpr=2#imgrc=YZhMlh31CEk5sM" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
